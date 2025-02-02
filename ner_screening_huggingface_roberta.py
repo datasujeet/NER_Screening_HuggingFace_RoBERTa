@@ -1,6 +1,3 @@
-# NER Screening using **Hugging Face** Model for Better Accuracy
-
-**Tech Stack**: Python, transformers, RoBERTa, Pandas
 
 from transformers import pipeline
 
